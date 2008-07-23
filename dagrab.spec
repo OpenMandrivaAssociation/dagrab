@@ -1,6 +1,6 @@
 %define name dagrab
 %define version 0.3.5
-%define release %mkrel 7
+%define release %mkrel 9
 
 Name: %{name}  
 Summary: A CD ripper

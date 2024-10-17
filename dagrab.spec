@@ -7,7 +7,7 @@ Summary: A CD ripper
 Version: %{version} 
 Release: %{release}
 Source: %{name}-%{version}.tar.bz2
-UrL: http://web.tiscalinet.it:/marcellou/dagrab.html
+UrL: https://web.tiscalinet.it:/marcellou/dagrab.html
 Group: Sound
 BuildRoot: %{_tmppath}/%{name}-buildroot
 License: GPL

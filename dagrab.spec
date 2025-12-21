@@ -12,6 +12,7 @@ Group: Sound
 BuildRoot: %{_tmppath}/%{name}-buildroot
 License: GPL
 
+BuildRequires:	make
 %description
 Dagrab is a digital audio grabber designed to rip sound tracks from an audio 
 cd to wave files.
